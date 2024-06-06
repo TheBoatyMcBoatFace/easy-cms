@@ -1,0 +1,10 @@
+# -----------------------
+# Ignore the gits
+# -----------------------
+
+.DS_Store
+.env
+
+
+# Temp ignore docs foler
+docs/*
